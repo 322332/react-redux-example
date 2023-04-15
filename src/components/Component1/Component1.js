@@ -12,7 +12,7 @@ export default function Component1(props) {
   }
 
   return (
-    <div style={styles.root}>
+    <div>
       component 1 <button onClick={incrementHandler}>arttır </button>
     </div>
   );
